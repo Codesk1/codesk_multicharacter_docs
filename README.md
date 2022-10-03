@@ -1,5 +1,5 @@
-# codesk_multicharacter_docs
-**Installation**
+
+## Installation
 
 To install the multicharacter. you only have to follow the next steps:
 
