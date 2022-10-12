@@ -11,7 +11,7 @@ To install the multicharacter. you only have to follow the next steps:
 
 ## Logs
 
-We included simple logs to know when users log into the server, to change the webhook go to server/wbh.lua and change 'YOUR_WEBHOOK' for your webhook
+We included simple logs to know when users log into the server, to change the webhook go to server/main.lua line: 225 and change 'YOUR_WEBHOOK' for your webhook
 
 ## UI
 
