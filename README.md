@@ -15,7 +15,7 @@ We included simple logs to know when users log into the server, to change the we
 
 ## UI
 
-You are free to change colors, images and more in the html folder.
+You are free to change colors, and choose if you wnat the Main Page in Configs/config.js
 
 ## Support
 
