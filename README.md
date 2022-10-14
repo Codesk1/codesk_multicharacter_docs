@@ -15,7 +15,9 @@ We included simple logs to know when users log into the server, to change the we
 
 ## UI
 
-You are free to change colors, and choose if you wnat the Main Page in Configs/config.js
+-You are free to change colors, and choose if you wnat the Main Page in Configs/config.js
+-Edit the text and all information in html/infdex.html
+-Replace logo.png with your logo in html/img
 
 ## Support
 
